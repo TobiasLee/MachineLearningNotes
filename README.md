@@ -7,5 +7,7 @@
 
 [Chapter-2 模型评估与选择](/notes/chapter2.md)
 
+[Chapter-3 线性模型](/notes/chapter3.md)
+
 
 
