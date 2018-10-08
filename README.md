@@ -9,5 +9,7 @@
 
 [Chapter-3 线性模型](/notes/chapter3.md)
 
+[Chapter-4 决策树](/notes/chapter4.md)
+
 
 
