@@ -11,5 +11,7 @@
 
 [Chapter-4 决策树](/notes/chapter4.md)
 
+[Chapter-5 神经网络](/notes/chapter5.md)
+
 
 
